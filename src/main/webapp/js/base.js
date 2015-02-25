@@ -19,7 +19,7 @@ google.devrel.samples = google.devrel.samples || {};
 
 /** TicTacToe namespace for this sample. */
 google.devrel.samples.ttt = google.devrel.samples.ttt || {};
-
+google.devrel.samples.ttt.CLIENT_ID = "613698051075-t83vj2414q3obkfngqfsjqkrppd6t6df.apps.googleusercontent.com"
 /**
  * Status for an unfinished game.
  * @type {number}
